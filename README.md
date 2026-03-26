@@ -40,7 +40,7 @@ multi-agent-trading-system/
 ## ⚙️ Installation
 
 1. Clone the repository  
-git clone https://github.com/your-username/multi-agent-trading-system.git  
+git clone https://github.com/HamzaAnsari8/multi-agent-trading-system.git  
 cd multi-agent-trading-system  
 
 2. Create virtual environment  
